@@ -74,7 +74,7 @@ Means Sinble Equipments
 
 	descirption : Description of item. String
 
-	part : Wearable Part of item. String
+	part : Wearable Part of item. Number
 
 API Ref
 ======
