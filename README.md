@@ -117,9 +117,16 @@ Return
 	id : User Scheme id
 	value : Update Target Value (VALUE FORMAT MUST BE ARRAY!)
 
+Return
+
+	Updated Schema
+
 ### /user/update/equip : Update User's Equipment Array
 
 	id : User Scheme id
 	value : Update Target Value (VALUE FORMAT MUST BE ARRAY!)
 
+Return
+
+	Updated Schema
 
